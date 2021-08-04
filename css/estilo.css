@@ -1,0 +1,44 @@
+body{
+    background:ghostwhite;
+    margin: 0px;
+    padding: 0px; /*esto es para quitar los margenes al max*/
+}
+h1 {
+    color: darkslategray;
+    font-size: 20px;
+}
+h2,h3 {
+    color: brown;
+}
+
+p a{
+    color: cyan;
+}
+a{
+    color: darkorange;
+}
+aside div a {
+    color: fuchsia;
+}
+
+p span {
+    color: black;
+}
+
+.red{
+    color: darkred;
+}
+#green{
+    color: green;
+}
+a [href="https://translate.google.com/?hl=es&tab=TT"]{
+    color: grey;
+}
+footer{
+    background:wheat;
+   color: aquamarine; 
+    width: 100%;
+}
+h5,h6,h4 {
+    background: cornflowerblue;
+}

@@ -1,0 +1,19 @@
+body{
+    
+}
+.caja {
+    top: 100px;
+    bottom: 0px; 
+    left: 300px; 
+    right: 0px;
+    position: static;
+     }
+
+div{
+    width:100px;
+    height: 100px;
+    background:black;
+    color: white;
+    font-size: 30px;
+   float: right;
+}

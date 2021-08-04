@@ -1,0 +1,17 @@
+body{
+    background: floralwhite;
+    background-image: url(../fotos/beagle.jpg);
+    background-repeat: repeat-y;
+    background-attachment: scroll;
+}
+div{
+    background-image: url(../fotos/beagle.jpg);
+    background-position: 60% 10%;
+    width: 50%;
+    height: 110px;
+    margin: 20px 50px;
+    padding: 30px;
+    border: 10px indigo double;
+    display: inline-block;
+
+}
